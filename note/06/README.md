@@ -6,6 +6,6 @@ Notes between 20 - 27 February 2023.
   + Rooms
     - 9310 at 0900-1040 for Wednesday (8 Feb)
 - Materials
-  + ..
-- Tugas: Kerjakan tugas di bawah ini.
-  + ..
+  + [NT6094 Teknik Penulisan Jurnal Ilmiah](https://doi.org/10.5281/zenodo.7039627)
+  + [Layanan akses publikasi, jenis publikasi, syarat kelulusan](https://doi.org/10.5281/zenodo.7058927)
+  
